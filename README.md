@@ -1,4 +1,7 @@
 ### Hi there 👋
+<h5>Learning developer</h5>
+
+![GIF](https://media.giphy.com/media/heIX5HfWgEYlW/giphy.gif)
 
 <!--
 **BAEKYUJEONG/BAEKYUJEONG** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
