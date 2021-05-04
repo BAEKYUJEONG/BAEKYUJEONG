@@ -1,7 +1,14 @@
 ### Hi there 👋
-<h5>Learning developer</h5>
+<h4>Learning developer</h4>
 
-![GIF](https://media.giphy.com/media/heIX5HfWgEYlW/giphy.gif)
+![GIF](https://media.giphy.com/media/E6jscXfv3AkWQ/giphy.gif)
+
+***
+
+## GitHub Stats
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=BAEKYUJEONG&show_icons=true&theme=radical)
+
 
 <!--
 **BAEKYUJEONG/BAEKYUJEONG** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
