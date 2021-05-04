@@ -1,7 +1,6 @@
-### Hi there 👋
-<h4>Learning developer</h4>
-
 ![GIF](https://media.giphy.com/media/E6jscXfv3AkWQ/giphy.gif)
+
+## Learning developer 👩‍💻 🔥
 
 ***
 
