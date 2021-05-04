@@ -1,10 +1,10 @@
 ![GIF](https://media.giphy.com/media/E6jscXfv3AkWQ/giphy.gif)
 
-## Learning developer 👩‍💻 🔥
+#### 🐤 Learning developer
 
 ***
 
-## GitHub Stats
+## 🧀 GitHub Stats
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=BAEKYUJEONG&show_icons=true&theme=radical)
 
