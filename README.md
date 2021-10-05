@@ -1,4 +1,4 @@
-### 👩‍💻 [Introduction](https://www.notion.so/8aacf13a700c4c6e88ca5a70676441a6)
+### 👩‍💻 [Introduction](https://clover-diascia-b79.notion.site/8aacf13a700c4c6e88ca5a70676441a6)
 
 ![GIF](https://media.giphy.com/media/E6jscXfv3AkWQ/giphy.gif)
 
